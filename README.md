@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Smart Q&A API (RAG + Groq LLM)
 
 A production-ready backend system that implements a **Retrieval-Augmented Generation (RAG)** pipeline using **Node.js, Express, MongoDB, and Groq LLM**.
@@ -318,7 +317,7 @@ GROQ_API_KEY=
 
 ---
 
-# 🎯 Assignment Compliance
+# 🎯 TASK Compliance
 
 | Requirement             | Status |
 | ----------------------- | ------ |
@@ -518,6 +517,5 @@ Currently, it is IP-based. In production, it can be extended to per-user rate li
 
 ## 👨‍💻 Author
 
-Ashok
+Ashok Maddhuru
 GitHub: https://github.com/ash76808
->>>>>>> ab8353e47a40e026b85f087109c082f3df80acd1
